@@ -177,24 +177,6 @@ SOAP/
 
 ---
 
-## Known limitations & roadmap
-
-- [ ] Login / roles and an audit trail
-- [ ] Visit-history list per patient (currently the latest record is loaded by IC)
-- [ ] Progress view across visits (VAS / ROM trends)
-- [ ] Encrypted storage and automated backups
-- [ ] Export / import of templates
-- [ ] Patient-friendly home-exercise handout (PDF)
-- [ ] Automated tests
-
-Contributions and suggestions are welcome — please open an issue first to discuss larger changes.
-
----
-
-## License
-
-_Choose a license and add it here (for example MIT), and include a `LICENSE` file in the repository._
-
 ## Disclaimer
 
 This software is provided for documentation support only and comes with no warranty. It does not provide medical advice or replace professional clinical judgement. The authors are not responsible for any decisions made using its output.
