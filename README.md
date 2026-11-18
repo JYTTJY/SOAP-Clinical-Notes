@@ -21,10 +21,6 @@ Evaluation form (S / O / A / P / E / R)
 <img width="934" height="440" alt="image" src="https://github.com/user-attachments/assets/539b1102-9d3d-4cc8-b034-0aa138dccbca" />
 
 
-Generated, print-ready report
-
-<img width="257" height="368" alt="image" src="https://github.com/user-attachments/assets/96d3e672-16ec-41c5-9a1e-4165efcdf3d2" />
-
 Template manager 
 <img width="932" height="443" alt="image" src="https://github.com/user-attachments/assets/5c579496-e013-4e5a-8064-5ccc8ee9e964" />
 
